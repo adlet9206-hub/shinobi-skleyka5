@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: Please cite this work if you use Shinobi Skleyka-5.
+title: "Shinobi Skleyka-5: Audio-First Automated Video Assembly"
+authors:
+  - family-names: Amirkhanova
+    given-names: Dana
+keywords:
+  - audio-first
+  - automated video
+  - AI pipeline
+  - skleyka
+  - stable diffusion
+license: MIT
+version: 0.1.0
+date-released: 2025-11-04
+doi: ""
+url: ""
